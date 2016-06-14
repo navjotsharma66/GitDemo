@@ -1,0 +1,10 @@
+<<<<<<< Updated upstream
+1canges changes 4 changes 3
+2changes
+=======
+1canges
+
+2changes
+
+3 changes
+>>>>>>> Stashed changes
